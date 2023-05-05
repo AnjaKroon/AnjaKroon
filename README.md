@@ -1,4 +1,4 @@
-Hello! I’m currently a fourth-year honours electrical engineering student at McGill University in Montreal, Quebec, Canada. My research interest areas include statistical signal processing applied to biology, chemistry, communications, and physical systems using machine learning (ML) frameworks. The projects on this page correspond to coursework and research projects conducted in conjunction with McGill University.
+Hello! I’m currently a fourth-year honours electrical engineering student at McGill University in Montreal, Quebec, Canada. My research interest areas include communications and signal processing for edge devices utilizing machine learning techniques. The projects on this page correspond to coursework and research projects conducted in conjunction with McGill University.
 
 Here are some of the other profiles I have online:
 
